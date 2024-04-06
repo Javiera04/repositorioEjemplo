@@ -26,6 +26,8 @@ public class HolaMundoApp {
 		System.out.println(resultado);
 		System.out.println(resultadoResta);
 		//System.out.println(nombreCompleto);
+		
+		System.out.println("hola");
 	}
 	
 	private static int sumar(int a, int b) {
